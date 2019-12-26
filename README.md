@@ -6,3 +6,4 @@
 4. [**Python for Data Analysis, 2nd Edition**](https://github.com/lambda-xmu/Books/blob/master/Python%20for%20Data%20Analysis%2C%202nd%20Edition.pdf)
 5. [**Deep Learning Cookbook**](https://github.com/lambda-xmu/Books/blob/master/deep%20learning%20cookbook.pdf)
 6. [**Foundations of Data Science**](https://github.com/lambda-xmu/Books/blob/master/Foundations%20of%20Data%20Science.pdf)
+7. [**Spark快速大数据分析**](https://github.com/lambda-xmu/Books/blob/master/Spark快速大数据分析.pdf)
